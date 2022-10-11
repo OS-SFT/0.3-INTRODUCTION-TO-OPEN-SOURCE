@@ -9,7 +9,7 @@
 | Item | Description | Links |
 | ------------- | ------------- | ------------ |
 | Open Source - Documentary | 2001 documentary “Revolution OS” describing the origin of Open Source and how it is distinct from Free Software versus Proprietary Paid-for Software | [Watch the documentary](https://www.youtube.com/watch?v=Eluzi70O-P4) |
-| Open Source - Definition | The Open Source Definition is a document published by the Open Source Initiative, to determine whether a software license can be labelled with the open-source certification mark | [Read the defintion](https://en.wikipedia.org/wiki/The_Open_Source_Definition) |
+| Open Source - Definition | The Open Source Definition is a document published by the Open Source Initiative, to determine whether a software license can be labelled with the open-source certification mark | [Read the definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) |
 
 ## Open-Source Defintion
 This is taken from the link in the table above.
